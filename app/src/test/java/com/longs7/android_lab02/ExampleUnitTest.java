@@ -1,4 +1,4 @@
-package com.longs7.androidlayout;
+package com.longs7.android_lab02;
 
 import org.junit.Test;
 
