@@ -1,4 +1,4 @@
-package com.longs7.android_lab02;
+package com.longs7.androidlayout;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.longs7.android_lab02", appContext.getPackageName());
+        assertEquals("com.longs7.androidlayout", appContext.getPackageName());
     }
 }

@@ -1,14 +1,14 @@
-package com.longs7.android_lab02;
+package com.longs7.androidlayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class BookActivity extends AppCompatActivity {
+public class TikiLayoutActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_book);
+        setContentView(R.layout.activity_tiki_layout);
     }
 }
