@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Android_Lab02'
+rootProject.name='AndroidLayout'
